@@ -5,6 +5,15 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>21/12/2020</b><br>
+La Regione Abruzzo comunica che in seguito a verifica sui dati comunicati è stato sottratto 1 caso dei giorni precedenti in quanto duplicato. La Regione Campania comunica di non poter fornire ad oggi i dati sugli ingressi delle T.I..  La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19.
+
+<b>20/12/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 2 casi in quanto giudicati non casi COVID-19. La Regione Campania al momento non ha a disposizione i dati quotidiani sugli ingressi in T.I..
+
+<b>19/12/2020</b><br>
+La Regione Abruzzo comunica che sono stati sottratti 2 casi dei giorni precedenti in quanto duplicati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione Campania al momento non ha a disposizione i dati quotidiani sugli ingressi in T.I..
+
 <b>18/12/2020</b><br>
 La Regione Basilicata segnala che il dato delle persone testate è stato ricalcolato e verificato con la piattaforma regionale covid-19.  La Regione Emilia Romagna segnala che a seguito di una verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19. La Regione FVG segnala che per problemi tecnici i dati comunicati oggi sono parziali, i dati mancanti saranno riportati nelle comunicazioni successive. La Regione Piemonte segnala che : - il dato delle persone testate e dei tamponi processati con test molecolare è stato ricalcolato sulla base delle indicazioni ministeriali.  - il totale dei casi positivi è stato ricalcolato sulla base della definizione di caso come da circolare ministeriale.
 
