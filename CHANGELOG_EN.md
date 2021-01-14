@@ -4,9 +4,14 @@ All changes to the project, new features and information are documented in this 
 
 ## Next updates
 
+- Add informations "totale_positivi_test_molecolare", "totale_positivi_test_antigenico_rapido", "tamponi_test_molecolare" e "tamponi_test_antigenico_rapido" on region and national trends datasets (from 18/01/2021)
 - Data quality analysis notes
 - Updates on previous days based on data recalculation notes from Regions
 - After January 6, 2021, the updates of the new areas with the containment measures will be carried out only on the generalized file
+
+## 2021-01-11
+
+- Change: updated generalized shapefile and geojson with new containment measures at regional level (red, orange and yellow areas) with related metadata.
 
 ## 2021-01-07
 
